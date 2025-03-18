@@ -1,0 +1,1 @@
+curl  "https://dictionary.yandex.net/api/v1/dicservice/lookup?key=dict.1.1.20250318T121603Z.75ef218105a549f2.bc775979f2fc405bc4982ac06c956b79960b768f&lang=en-ru&text=sky&ui=ru" -o 3.xml
